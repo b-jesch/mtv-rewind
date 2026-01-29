@@ -1,0 +1,15 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+
+msgctxt "#30001"
+msgid "Allgemein"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Video-Titel von YouTube laden"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Wenn aktiviert, werden Künstler und Titel von YouTube geladen. Dies dauert länger beim Öffnen der Listen."
+msgstr ""

@@ -1,0 +1,15 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+
+msgctxt "#30001"
+msgid "General"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Fetch video titles from YouTube"
+msgstr ""
+
+msgctxt "#30003"
+msgid "When enabled, artist and title information will be fetched from YouTube. This takes longer when opening lists."
+msgstr ""
